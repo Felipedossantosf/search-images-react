@@ -1,5 +1,5 @@
 {
-  "homepage": "https://felipedossantosf.github.io/search-images-react/",
+  "homepage": "https://felipedossantosf.github.io/search-images-react",
   "name": "pics",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "5.0.0"
+    "gh-pages": "^5.0.0"
   }
 }
